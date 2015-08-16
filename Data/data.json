@@ -1,0 +1,28 @@
+{
+  "employees" : {
+    "akhilrs" : {
+      "fname": "Akhil",
+      "lname": "R S",
+      "email": "akhilrs@qusol.org",
+      "mobile": "8089377905"
+    },
+    "anoop":{
+      "fname": "Anoop",
+      "lname": "S Dev",
+      "email": "anoopsdev@qusol.org",
+      "mobile": "999999525555"
+    },
+    "amal":{
+      "fname": "Amal",
+      "lname": "Mohan",
+      "email": "amal@qusol.org",
+      "mobile": "999999525555"
+    },
+    "basil":{
+      "fname": "Mohammad",
+      "lname": "Basil",
+      "email": "basil@qusol.org",
+      "mobile": "999999525555"
+    }
+  }
+}
